@@ -22,7 +22,7 @@
 - Материалы 2021/2022 года можно посмотреть [в этом репозитории](https://github.com/mmp-practicum-team/mmp_practicum_fall_2021)
 - Материалы 2020/2021 года можно посмотреть [в этом репозитории](https://github.com/mmp-practicum-team/mmp_practicum_fall_2020)
 
-- Большие практические задания [выкладываются здесь](https://github.com/mmp-practicum-team/mmp_practicum_fall_2023/tree/main/Tasks)
+- Большие практические задания [выкладываются здесь](https://github.com/mmp-practicum-team/mmp_practicum_fall_2023/tree/master/Tasks)
 
 - Все задания сдаются в системе [anytask](https://anytask.org/course/1043)
 
